@@ -1,3 +1,4 @@
 # human-code
 
-(img/Diagram Group 4.jpg)
+
+![lorem ipsum](Diagram_Group_4.jpg)
